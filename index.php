@@ -1,7 +1,8 @@
 <?php
 
-echo "hello";
+echo "hello1";
 
 echo "editado no github";
 
-echo "editado localmente para ver os conflitos";
+echo "resolver conflitos";
+
